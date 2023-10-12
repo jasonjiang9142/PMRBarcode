@@ -1,7 +1,7 @@
 import React from 'react'
-import "tailwindcss"
-import Qrcode from "../../../images/image-qr-code.png"
 
+
+let Qrcode = "./image-qr-code.png"
 
 export default function Qr() {
     return (
